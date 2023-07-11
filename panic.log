@@ -1,0 +1,1061 @@
+*** ENVIRONMENT CRASH ***
+
+Date: Jan 9 2023 11:24 AM
+
+File Name: C:\Program Files (x86)\Ready to Program\ready.exe
+Version: 1.7  [11]
+File Size: 2904103
+File Date: Oct 2 2003 4:13 PM
+Operating System: After Windows XP
+JVM: Ready Built-in JRE (1.4.2 or later)
+"assert" Statements: disabled
+
+
+Cause of Crash: Breakpoint Reached
+
+Previous Operations:
+    Line Starts: 533:16885 534:16904 535:16910 536:16912
+    ннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннE
+    ннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннМg]ФеЋ
+  CMD: WM_CHAR [#8] (D)
+    Keystroke - Text: 2558de8 - ch: 8
+    Text - sz:536:16911 - slFr:461:22:14384 - slTo:461:22:14384 - nlA:0
+    Line Starts: 533:16884 534:16903 535:16909 536:16911
+    Keystroke (2) - sz:536:16910 - slFr:14383 - slTo:14383 - nlA:0
+    Line Starts: 533:16883 534:16902 535:16908 536:16910
+  CMD: WM_CHAR [#8] (D)
+    Keystroke - Text: 2558de8 - ch: 8
+    Text - sz:536:16910 - slFr:461:21:14383 - slTo:461:21:14383 - nlA:0
+    Line Starts: 533:16883 534:16902 535:16908 536:16910
+    Keystroke (2) - sz:536:16909 - slFr:14382 - slTo:14382 - nlA:0
+    Line Starts: 533:16882 534:16901 535:16907 536:16909
+  CMD: WM_CHAR [#8] (D)
+    Keystroke - Text: 2558de8 - ch: 8
+    Text - sz:536:16909 - slFr:461:20:14382 - slTo:461:20:14382 - nlA:0
+    Line Starts: 533:16882 534:16901 535:16907 536:16909
+    Keystroke (2) - sz:536:16908 - slFr:14381 - slTo:14381 - nlA:0
+    Line Starts: 533:16881 534:16900 535:16906 536:16908
+  CMD: WM_CHAR [#8] (D)
+    Keystroke - Text: 2558de8 - ch: 8
+    Text - sz:536:16908 - slFr:461:19:14381 - slTo:461:19:14381 - nlA:0
+    Line Starts: 533:16881 534:16900 535:16906 536:16908
+    Keystroke (2) - sz:536:16907 - slFr:14380 - slTo:14380 - nlA:0
+    Line Starts: 533:16880 534:16899 535:16905 536:16907
+  CMD: WM_CHAR [#8] (D)
+    Keystroke - Text: 2558de8 - ch: 8
+    Text - sz:536:16907 - slFr:461:18:14380 - slTo:461:18:14380 - nlA:0
+    Line Starts: 533:16880 534:16899 535:16905 536:16907
+    Keystroke (2) - sz:536:16906 - slFr:14379 - slTo:14379 - nlA:0
+    Line Starts: 533:16879 534:16898 535:16904 536:16906
+  CMD: WM_CHAR [#8] (D)
+    Keystroke - Text: 2558de8 - ch: 8
+    Text - sz:536:16906 - slFr:461:17:14379 - slTo:461:17:14379 - nlA:0
+    Line Starts: 533:16879 534:16898 535:16904 536:16906
+    Keystroke (2) - sz:536:16905 - slFr:14378 - slTo:14378 - nlA:0
+    Line Starts: 533:16878 534:16897 535:16903 536:16905
+  CMD: WM_CHAR [ ] (D) (x20) [Status ("There isa  ]
+    Keystroke - Text: 2558de8 - ch: 32
+    Text - sz:536:16924 - slFr:461:35:14397 - slTo:461:35:14397 - nlA:0
+    Line Starts: 533:16897 534:16916 535:16922 536:16924
+    Keystroke (2) - sz:536:16925 - slFr:14398 - slTo:14398 - nlA:0
+    Line Starts: 533:16898 534:16917 535:16923 536:16925
+  CMD: WM_CHAR [#8] (D)
+    Keystroke - Text: 2558de8 - ch: 8
+    Text - sz:536:16925 - slFr:461:36:14398 - slTo:461:36:14398 - nlA:0
+    Line Starts: 533:16898 534:16917 535:16923 536:16925
+    Keystroke (2) - sz:536:16924 - slFr:14397 - slTo:14397 - nlA:0
+    Line Starts: 533:16897 534:16916 535:16922 536:16924
+  CMD: WM_CHAR [#8] (D)
+    Keystroke - Text: 2558de8 - ch: 8
+    Text - sz:536:16924 - slFr:461:35:14397 - slTo:461:35:14397 - nlA:0
+    Line Starts: 533:16897 534:16916 535:16922 536:16924
+    Keystroke (2) - sz:536:16923 - slFr:14396 - slTo:14396 - nlA:0
+    Line Starts: 533:16896 534:16915 535:16921 536:16923
+  CMD: WM_CHAR [ ] (D) (x1) [ ]
+    Keystroke - Text: 2558de8 - ch: 32
+    Text - sz:536:16923 - slFr:461:34:14396 - slTo:461:34:14396 - nlA:0
+    Line Starts: 533:16896 534:16915 535:16921 536:16923
+    Keystroke (2) - sz:536:16924 - slFr:14397 - slTo:14397 - nlA:0
+    Line Starts: 533:16897 534:16916 535:16922 536:16924
+  CMD: WM_CHAR [#8] (D)
+    Keystroke - Text: 2558de8 - ch: 8
+    Text - sz:536:16924 - slFr:461:35:14397 - slTo:461:35:14397 - nlA:0
+    Line Starts: 533:16897 534:16916 535:16922 536:16924
+    Keystroke (2) - sz:536:16923 - slFr:14396 - slTo:14396 - nlA:0
+    Line Starts: 533:16896 534:16915 535:16921 536:16923
+  CMD: WM_CHAR [#8] (D)
+    Keystroke - Text: 2558de8 - ch: 8
+    Text - sz:536:16923 - slFr:461:34:14396 - slTo:461:34:14396 - nlA:0
+    Line Starts: 533:16896 534:16915 535:16921 536:16923
+    Keystroke (2) - sz:536:16922 - slFr:14395 - slTo:14395 - nlA:0
+    Line Starts: 533:16895 534:16914 535:16920 536:16922
+  CMD: WM_CHAR [;] (D) (x16) [ a car there!");]
+    Keystroke - Text: 2558de8 - ch: 59
+    Text - sz:536:16937 - slFr:461:48:14410 - slTo:461:48:14410 - nlA:0
+    Line Starts: 533:16910 534:16929 535:16935 536:16937
+    Keystroke (2) - sz:536:16938 - slFr:14411 - slTo:14411 - nlA:0
+    Line Starts: 533:16911 534:16930 535:16936 536:16938
+  CMD: COMMAND_MOVE/SELECT_LINE_DOWN
+    Move Line Down - Text: 2558de8 - Select: 0
+    Text - sz:536:16938 - slFr:461:49:14411 - slTo:461:49:14411 - nlA:0
+    Line Starts: 533:16911 534:16930 535:16936 536:16938
+  CMD: COMMAND_MOVE/SELECT_LINE_UP
+    Move Line Up - Text: 2558de8 - Select: 0
+    Text - sz:536:16938 - slFr:462:49:14461 - slTo:462:49:14461 - nlA:0
+    Line Starts: 533:16911 534:16930 535:16936 536:16938
+  CMD: WM_CHAR [#13] (D)
+    Keystroke - Text: 2558de8 - ch: 13
+    Text - sz:536:16938 - slFr:461:49:14411 - slTo:461:49:14411 - nlA:0
+    Line Starts: 533:16911 534:16930 535:16936 536:16938
+    Keystroke (2) - sz:537:16951 - slFr:14424 - slTo:14424 - nlA:0
+    Line Starts: 534:16924 535:16943 536:16949 537:16951
+  CMD: WM_CHAR [#8] (D)
+    Keystroke - Text: 2558de8 - ch: 8
+    Text - sz:537:16951 - slFr:462:12:14424 - slTo:462:12:14424 - nlA:0
+    Line Starts: 534:16924 535:16943 536:16949 537:16951
+    Keystroke (2) - sz:537:16950 - slFr:14423 - slTo:14423 - nlA:0
+    Line Starts: 534:16923 535:16942 536:16948 537:16950
+  CMD: WM_CHAR [#8] (D)
+    Keystroke - Text: 2558de8 - ch: 8
+    Text - sz:537:16950 - slFr:462:11:14423 - slTo:462:11:14423 - nlA:0
+    Line Starts: 534:16923 535:16942 536:16948 537:16950
+    Keystroke (2) - sz:537:16949 - slFr:14422 - slTo:14422 - nlA:0
+    Line Starts: 534:16922 535:16941 536:16947 537:16949
+  CMD: WM_CHAR [#8] (D)
+    Keystroke - Text: 2558de8 - ch: 8
+    Text - sz:537:16949 - slFr:462:10:14422 - slTo:462:10:14422 - nlA:0
+    Line Starts: 534:16922 535:16941 536:16947 537:16949
+    Keystroke (2) - sz:537:16948 - slFr:14421 - slTo:14421 - nlA:0
+    Line Starts: 534:16921 535:16940 536:16946 537:16948
+  CMD: WM_CHAR [#8] (D)
+    Keystroke - Text: 2558de8 - ch: 8
+    Text - sz:537:16948 - slFr:462:9:14421 - slTo:462:9:14421 - nlA:0
+    Line Starts: 534:16921 535:16940 536:16946 537:16948
+    Keystroke (2) - sz:537:16947 - slFr:14420 - slTo:14420 - nlA:0
+    Line Starts: 534:16920 535:16939 536:16945 537:16947
+  CMD: WM_CHAR [r] (D) (x17) [else if (whichCar]
+    Keystroke - Text: 2558de8 - ch: 114
+    Text - sz:537:16963 - slFr:462:24:14436 - slTo:462:24:14436 - nlA:0
+    Line Starts: 534:16936 535:16955 536:16961 537:16963
+    Keystroke (2) - sz:537:16964 - slFr:14437 - slTo:14437 - nlA:0
+    Line Starts: 534:16937 535:16956 536:16962 537:16964
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_LBUTTONDOWN (D)
+    Set Selection (1) - Text: 2558de8 - L: 441 - C: 43
+    Text - sz:537:16964 - slFr:462:25:14437 - slTo:462:25:14437 - nlA:0
+    Line Starts: 534:16937 535:16956 536:16962 537:16964
+    Set Selection (2) - sz:537:16964 - slFr:13861 - slTo:13861 - nlA:0
+    Line Starts: 534:16937 535:16956 536:16962 537:16964
+    Extend Selection - Text: 2558de8 - L: 441 - C: 43 (x1)
+    Text - sz:537:16964 - slFr:441:38:13861 - slTo:441:38:13861 - nlA:0
+    Line Starts: 534:16937 535:16956 536:16962 537:16964
+  CMD: WM_LBUTTONUP (D)
+    Extend Selection - Text: 2558de8 - L: 441 - C: 43 (x1)
+    Text - sz:537:16964 - slFr:13861 - slTo:13861 - nlA:0
+    Line Starts: 534:16937 535:16956 536:16962 537:16964
+  CMD: WM_INITMENU (W)
+  CMD: COMMAND_SAVE_FILE
+    Save File (1) - Window: 104c8 - SaveAs: 0 - Sel: 0 - fileno: 0 - sizeptr: 0
+    Save File (2) - name: C:\Users\707913\OneDrive - Peel District School Board\Computer Science\Rush Hour\RushHourGame.java - fileno: 0 - sizeptr: 0
+  CMD: WM_CLOSE (W)
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_DESTROY (W)
+  CMD: WM_DESTROY (D)
+
+
+Registers
+  EAX=00000001  EBX=002C7000  ECX=00870000  EDX=00870000  ESI=0019E690
+  EDI=0019FEE0  EBP=0019E640  ESP=0019E630  EIP=00524EEF  FLG=00200246
+  CS=0023  DS=002B  SS=002B  ES=002B  FS=0053  GS=002B
+
+Not enough space for modules.
+
+------------------------------------------------------
+*** ENVIRONMENT CRASH ***
+
+Date: Jan 9 2023 11:25 AM
+
+File Name: C:\Program Files (x86)\Ready to Program\Ready.exe
+Version: 1.7  [11]
+File Size: 2904103
+File Date: Oct 2 2003 4:13 PM
+Operating System: After Windows XP
+JVM: Ready Built-in JRE (1.4.2 or later)
+"assert" Statements: disabled
+
+
+Cause of Crash: Breakpoint Reached
+
+Previous Operations:
+  CMD: WM_CHAR [#8] (D)
+    Keystroke - Text: 257b338 - ch: 8
+    Text - sz:536:16892 - slFr:462:3:14415 - slTo:462:3:14415 - nlA:0
+    Line Starts: 533:16865 534:16884 535:16890 536:16892
+    Keystroke (2) - sz:536:16891 - slFr:14414 - slTo:14414 - nlA:0
+    Line Starts: 533:16864 534:16883 535:16889 536:16891
+  CMD: WM_CHAR [#8] (D)
+    Keystroke - Text: 257b338 - ch: 8
+    Text - sz:536:16891 - slFr:462:2:14414 - slTo:462:2:14414 - nlA:0
+    Line Starts: 533:16864 534:16883 535:16889 536:16891
+    Keystroke (2) - sz:536:16890 - slFr:14413 - slTo:14413 - nlA:0
+    Line Starts: 533:16863 534:16882 535:16888 536:16890
+  CMD: WM_CHAR [#8] (D)
+    Keystroke - Text: 257b338 - ch: 8
+    Text - sz:536:16890 - slFr:462:1:14413 - slTo:462:1:14413 - nlA:0
+    Line Starts: 533:16863 534:16882 535:16888 536:16890
+    Keystroke (2) - sz:536:16889 - slFr:14412 - slTo:14412 - nlA:0
+    Line Starts: 533:16862 534:16881 535:16887 536:16889
+  CMD: WM_CHAR [#8] (D)
+    Keystroke - Text: 257b338 - ch: 8
+    Text - sz:536:16889 - slFr:462:0:14412 - slTo:462:0:14412 - nlA:0
+    
+Crashed in Crash Handler!
+*** ENVIRONMENT CRASH ***
+
+Date: Jan 12 2023 9:23 AM
+
+File Name: C:\Program Files (x86)\Ready to Program\ready.exe
+Version: 1.7  [11]
+File Size: 2904103
+File Date: Oct 2 2003 4:13 PM
+Operating System: After Windows XP
+JVM: Ready Built-in JRE (1.4.2 or later)
+"assert" Statements: disabled
+
+
+Cause of Crash: Access Violation
+
+Previous Operations:
+    Line Starts: 660:21876 661:21895 662:21901 663:21903
+  CMD: WM_LBUTTONDOWN (D)
+    Set Selection (1) - Text: 2498d98 - L: 78 - C: 29
+    Text - sz:663:21903 - slFr:2845 - slTo:2845 - nlA:0
+    Hour" 300 200 џџ"
+    Set Selection (2) - sz:663:21903 - slFr:2677 - slTo:2677 - nlA:0
+    Line Starts: 660:21876 661:21895 662:21901 663:21903
+  CMD: WM_LBUTTONUP (D)
+    Extend Selection - Text: 2498d98 - L: 78 - C: 29 (x1)
+    Text - sz:663:21903 - slFr:78:13:2677 - slTo:78:13:2677 - nlA:0
+    Line Starts: 660:21876 661:21895 662:21901 663:21903
+  CMD: WM_LBUTTONDOWN (D)
+    Set Selection (1) - Text: 2498d98 - L: 81 - C: 128
+    Text - sz:663:21903 - slFr:78:13:2677 - slTo:78:13:2677 - nlA:0
+    Line Starts: 660:21876 661:21895 662:21901 663:21903
+    Set Selection (2) - sz:663:21903 - slFr:2845 - slTo:2845 - nlA:0
+    Line Starts: 660:21876 661:21895 662:21901 663:21903
+  CMD: WM_LBUTTONUP (D)
+    Extend Selection - Text: 2498d98 - L: 81 - C: 70 (x1)
+    Text - sz:663:21903 - slFr:81:16:2845 - slTo:81:16:2845 - nlA:0
+    Line Starts: 660:21876 661:21895 662:21901 663:21903
+  CMD: WM_LBUTTONDOWN (D)
+    Set Selection (1) - Text: 2498d98 - L: 76 - C: 10
+    Text - sz:663:21903 - slFr:2845 - slTo:2845 - nlA:0
+    Line Starts: 660:21876 661:21895 662:21901 663:21903
+    Set Selection (2) - sz:663:21903 - slFr:2510 - slTo:2510 - nlA:0
+    Line Starts: 660:21876 661:21895 662:21901 663:21903
+  CMD: WM_LBUTTONUP (D)
+    Extend Selection - Text: 2498d98 - L: 76 - C: 10 (x1)
+    Text - sz:663:21903 - slFr:76:10:2510 - slTo:76:10:2510 - nlA:0
+    Line Starts: 660:21876 661:21895 662:21901 663:21903
+  CMD: WM_CHAR [#8] (D)
+    Keystroke - Text: 2498d98 - ch: 8
+    Text - sz:663:21903 - slFr:2510 - slTo:2510 - nlA:0
+    Line Starts: 660:21876 661:21895 662:21901 663:21903
+    Keystroke (2) - sz:663:21902 - slFr:2509 - slTo:2509 - nlA:0
+    Line Starts: 660:21875 661:21894 662:21900 663:21902
+  CMD: WM_CHAR [#8] (D)
+    Keystroke - Text: 2498d98 - ch: 8
+    Text - sz:663:21902 - slFr:76:9:2509 - slTo:76:9:2509 - nlA:0
+    Line Starts: 660:21875 661:21894 662:21900 663:21902
+    Keystroke (2) - sz:663:21901 - slFr:2508 - slTo:2508 - nlA:0
+    Line Starts: 660:21874 661:21893 662:21899 663:21901
+  CMD: WM_LBUTTONDOWN (D)
+    Set Selection (1) - Text: 2498d98 - L: 82 - C: 123
+    Text - sz:663:21901 - slFr:76:8:2508 - slTo:76:8:2508 - nlA:0
+    Line Starts: 660:21874 661:21893 662:21899 663:21901
+    Set Selection (2) - sz:663:21901 - slFr:2966 - slTo:2966 - nlA:0
+    Line Starts: 660:21874 661:21893 662:21899 663:21901
+  CMD: WM_LBUTTONUP (D)
+    Extend Selection - Text: 2498d98 - L: 82 - C: 123 (x1)
+    Text - sz:663:21901 - slFr:82:122:2966 - slTo:82:122:2966 - nlA:0
+    Line Starts: 660:21874 661:21893 662:21899 663:21901
+  CMD: WM_CHAR [#8] (D)
+    Keystroke - Text: 2498d98 - ch: 8
+    Text - sz:663:21901 - slFr:2966 - slTo:2966 - nlA:0
+    Line Starts: 660:21874 661:21893 662:21899 663:21901
+    Keystroke (2) - sz:663:21900 - slFr:2965 - slTo:2965 - nlA:0
+    Line Starts: 660:21873 661:21892 662:21898 663:21900
+  CMD: WM_CHAR [#8] (D)
+    Keystroke - Text: 2498d98 - ch: 8
+    Text - sz:663:21900 - slFr:82:121:2965 - slTo:82:121:2965 - nlA:0
+    Line Starts: 660:21873 661:21892 662:21898 663:21900
+    Keystroke (2) - sz:663:21899 - slFr:2964 - slTo:2964 - nlA:0
+    Line Starts: 660:21872 661:21891 662:21897 663:21899
+  CMD: WM_INITMENU (W)
+  CMD: COMMAND_SAVE_FILE
+    Save File (1) - Window: 104ba - SaveAs: 0 - Sel: 0 - fileno: 0 - sizeptr: 0
+    ннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннeel DistrictїЃch0bdBoard\Computer Science\Rush CMD: WM_INITMENU (W)
+  CMD: WM_INITMENU (W)
+  CMD: COMMAND_RUN
+    Run (1) - Window: 104ba - Ex: 1 - Args: 0 - Step: 0
+    Jikes compiling RushHourGame
+    Jikes: Found 1 semantic error compiling "C:/Users/707913/OneDrive - Peel District School Board/Computer Science/Rush Hour/RushHourGame.java":
+    Find Next Error (1) - Text: 104ba - Activate: 1
+    Set Selection (1) - Text: 2498d98 - L: 67 - C: 8
+    Text - sz:663:21899 - slFr:82:120:2964 - slTo:82:120:2964 - nlA:0
+    Line Starts: 660:21872 661:21891 662:21897 663:21899
+    Set Selection (2) - sz:663:21899 - slFr:2288 - slTo:2288 - nlA:0
+    Line Starts: 660:21872 661:21891 662:21897 663:21899
+    Goto Error - sz:663:21899 - slFr:2288 - slTo:2288 - nlA:0
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_CHAR [/] (D) (x2) [//]
+    Keystroke - Text: 2498d98 - ch: 47
+    Text - sz:663:21900 - slFr:67:9:2289 - slTo:67:9:2289 - nlA:0
+    Line Starts: 660:21873 661:21892 662:21898 663:21900
+    Keystroke (2) - sz:663:21901 - slFr:2290 - slTo:2290 - nlA:0
+    Line Starts: 660:21874 661:21893 662:21899 663:21901
+  CMD: WM_INITMENU (W)
+  CMD: COMMAND_SAVE_FILE
+    Save File (1) - Window: 104ba - SaveAs: 0 - Sel: 0 - fileno: 0 - sizeptr: 0
+    Save File (2) - name: C:\Users\707913\OneDrive - Peel District School Board\Computer Science\Rush Hour\RushHourGame.java - fileno: 0 - sizeptr: 0
+  CMD: WM_INITMENU (W)
+    Hour" 300 200 џџ"
+    Run (1) - Window: 104ba - Ex: 1 - Args: 0 - Step: 0
+    Jikes compiling RushHourGame
+    Command to Java Supervisor - "-java "C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\client\jvm.dll" -cp ".;C:\Program Files (x86)\Ready to Program\Support\Ready Classes;C:\Program Files (x86)\Ready to Program\Support\Classes;C:\Program Files (x86)\Ready to Program\Support\Ready Classes\tools.jar;" -class RushHourGame -props F 25 80 10 "Courier New" 2 F 0 F 8 8 0 F T -applet "C:\Users\707913\OneDrive - Peel District School Board\Computer Science\Rush Hour" "C:\Users\707913\OneDrive - Peel District School Board\Computer Science\Rush Hour" 300 200 џџ"
+    JavaSup: -pipe 580 592 512 132206
+    JavaSup: JVM Option: "-Djava.class.path=.;C:\Program Files (x86)\Ready to Program\Support\Ready Classes;C:\Program Files (x86)\Ready to Program\Support\Classes;C:\Program Files (x86)\Ready to Program\Support\Ready Classes\tools.jar;"
+    JavaSup: JVM Option: "-Djava.library.path=C:\Program Files (x86)\Ready to Program\Support\Bin"
+    JavaSup: JVM Option: "-enableassertions"
+    JavaSup: JVM Option: "-Xdebug"
+    JavaSup: JVM Option: "-Xrunjdwp:transport=dt_shmem,address=readyshmem,server=y,suspend=n"
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_SETFOCUS (W)
+  CMD: COMMAND_STOP
+  CMD: WM_SETFOCUS (W)
+    Hour" 300 200 џџ"
+    Run (1) - Window: 104ba - Ex: 1 - Args: 0 - Step: 0
+    Jikes compiling RushHourGame
+    Command to Java Supervisor - "-java "C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\client\jvm.dll" -cp ".;C:\Program Files (x86)\Ready to Program\Support\Ready Classes;C:\Program Files (x86)\Ready to Program\Support\Classes;C:\Program Files (x86)\Ready to Program\Support\Ready Classes\tools.jar;" -class RushHourGame -props F 25 80 10 "Courier New" 2 F 0 F 8 8 0 F T -applet "C:\Users\707913\OneDrive - Peel District School Board\Computer Science\Rush Hour" "C:\Users\707913\OneDrive - Peel District School Board\Computer Science\Rush JavaSup: JVM Option: "-Djava.class.path=.;C:\Program Files (x86)\Ready to Program\Support\Ready Classes;C:\Program Files (x86)\Ready to Program\Support\Classes;C:\Program Files (x86)\Ready to Program\Support\Ready Classes\tools.jar;"
+    JavaSup: -pipe 580 592 512 132206
+    JavaSup: JVM Option: "-Djava.class.path=.;C:\Program Files (x86)\Ready to Program\Support\Ready Classes;C:\Program Files (x86)\Ready to Program\Support\Classes;C:\Program Files (x86)\Ready to Program\Support\Ready Classes\tools.jar;"
+    !
+  CMD: WM_INITMENU (W)
+  CMD: WM_INITMENU (W)
+  CMD: COMMAND_RUN
+    Run (1) - Window: 104ba - Ex: 1 - Args: 0 - Step: 0
+    Jikes compiling RushHourGame
+    Command to Java Supervisor - "-java "C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\client\jvm.dll" -cp ".;C:\Program Files (x86)\Ready to Program\Support\Ready Classes;C:\Program Files (x86)\Ready to Program\Support\Classes;C:\Program Files (x86)\Ready to Program\Support\Ready Classes\tools.jar;" -class RushHourGame -props F 25 80 10 "Courier New" 2 F 0 F 8 8 0 F T -applet "C:\Users\707913\OneDrive - Peel District School Board\Computer Science\Rush Hour" "C:\Users\707913\OneDrive - Peel District School Board\Computer Science\Rush Hour" 300 200 џџ"
+  CMD: WM_SETFOCUS (W)
+  CMD: COMMAND_STOP
+  CMD: WM_SETFOCUS (W)
+  CMD: COMMAND_RUN
+    Run (1) - Window: 104ba - Ex: 1 - Args: 0 - Step: 0
+    Jikes compiling RushHourGame
+    Command to Java Supervisor - "-java "C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\client\jvm.dll" -cp ".;C:\Program Files (x86)\Ready to Program\Support\Ready Classes;C:\Program Files (x86)\Ready to Program\Support\Classes;C:\Program Files (x86)\Ready to Program\Support\Ready Classes\tools.jar;" -class RushHourGame -props F 25 80 10 "Courier New" 2 F 0 F 8 8 0 F T -applet "C:\Users\707913\OneDrive - Peel District School Board\Computer Science\Rush Hour" "C:\Users\707913\OneDrive - Peel District School Board\Computer Science\Rush Hour" 300 200 џџ"
+  CMD: WM_SETFOCUS (W)
+  CMD: COMMAND_STOP
+  CMD: WM_SETFOCUS (W)
+  CMD: COMMAND_RUN
+    Run (1) - Window: 104ba - Ex: 1 - Args: 0 - Step: 0
+    Jikes compiling RushHourGame
+    Command to Java Supervisor - "-java "C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\client\jvm.dll" -cp ".;C:\Program Files (x86)\Ready to Program\Support\Ready Classes;C:\Program Files (x86)\Ready to Program\Support\Classes;C:\Program Files (x86)\Ready to Program\Support\Ready Classes\tools.jar;" -class RushHourGame -props F 25 80 10 "Courier New" 2 F 0 F 8 8 0 F T -applet "C:\Users\707913\OneDrive - Peel District School Board\Computer Science\Rush Hour" "C:\Users\707913\OneDrive - Peel District School Board\Computer Science\Rush CMD: WM_DESTROY (W)
+  CMD: WM_INITMENU (W)
+  CMD: WM_INITMENU (W)
+  CMD: WM_SETFOCUS (W)
+  CMD: COMMAND_STOP
+  CMD: WM_CLOSE (W)
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_DESTROY (W)
+  CMD: WM_DESTROY (D)
+
+
+Registers
+  EAX=00000000  EBX=002D7000  ECX=00000003  EDX=5584DACD  ESI=0019E690
+  EDI=0019FEE0  EBP=0019E61C  ESP=0019E60C  EIP=005253D3  FLG=00210246
+  CS=0023  DS=002B  SS=002B  ES=002B  FS=0053  GS=002B
+
+Not enough space for modules.
+
+------------------------------------------------------
+*** ENVIRONMENT CRASH ***
+
+Date: Jan 16 2023 9:39 AM
+
+File Name: C:\Program Files (x86)\Ready to Program\ready.exe
+Version: 1.7  [11]
+File Size: 2904103
+File Date: Oct 2 2003 4:13 PM
+Operating System: After Windows XP
+JVM: Ready Built-in JRE (1.4.2 or later)
+"assert" Statements: disabled
+
+
+Cause of Crash: Breakpoint Reached
+
+Previous Operations:
+    Line Starts: 699:22928 700:22944 701:22950 702:22952
+    Find (2) - sz:702:22952 - slFr:5910 - slTo:5915 - nlA:0
+    Find (1) - Window: 104aa - Forward: 1
+    Set Selection1 (1) - Text: 2578d98 - From: 6217 - To: 6222
+    Text - sz:702:22952 - slFr:167:33:5910 - slTo:167:38:5915 - nlA:0
+    Line Starts: 699:22928 700:22944 701:22950 702:22952
+    Find (2) - sz:702:22952 - slFr:6217 - slTo:6222 - nlA:0
+    Find (1) - Window: 104aa - Forward: 1
+    Set Selection1 (1) - Text: 2578d98 - From: 8006 - To: 8011
+    Text - sz:702:22952 - slFr:174:34:6217 - slTo:174:39:6222 - nlA:0
+    Line Starts: 699:22928 700:22944 701:22950 702:22952
+    Find (2) - sz:702:22952 - slFr:8006 - slTo:8011 - nlA:0
+    Find (1) - Window: 104aa - Forward: 1
+    Set Selection1 (1) - Text: 2578d98 - From: 3824 - To: 3829
+    Text - sz:702:22952 - slFr:214:34:8006 - slTo:214:39:8011 - nlA:0
+    Line Starts: 699:22928 700:22944 701:22950 702:22952
+    Find (2) - sz:702:22952 - slFr:3824 - slTo:3829 - nlA:0
+    Find (1) - Window: 104aa - Forward: 1
+    Set Selection1 (1) - Text: 2578d98 - From: 5910 - To: 5915
+    Text - sz:702:22952 - slFr:110:38:3824 - slTo:110:43:3829 - nlA:0
+    Line Starts: 699:22928 700:22944 701:22950 702:22952
+    Find (2) - sz:702:22952 - slFr:5910 - slTo:5915 - nlA:0
+    Find (1) - Window: 104aa - Forward: 1
+    Set Selection1 (1) - Text: 2578d98 - From: 6217 - To: 6222
+    Text - sz:702:22952 - slFr:167:33:5910 - slTo:167:38:5915 - nlA:0
+    Line Starts: 699:22928 700:22944 701:22950 702:22952
+    Find (2) - sz:702:22952 - slFr:6217 - slTo:6222 - nlA:0
+    Find (1) - Window: 104aa - Forward: 1
+    Set Selection1 (1) - Text: 2578d98 - From: 8006 - To: 8011
+    Text - sz:702:22952 - slFr:174:34:6217 - slTo:174:39:6222 - nlA:0
+    Line Starts: 699:22928 700:22944 701:22950 702:22952
+    Find (2) - sz:702:22952 - slFr:8006 - slTo:8011 - nlA:0
+    Find (1) - Window: 104aa - Forward: 1
+    Set Selection1 (1) - Text: 2578d98 - From: 3824 - To: 3829
+    Text - sz:702:22952 - slFr:214:34:8006 - slTo:214:39:8011 - nlA:0
+    Line Starts: 699:22928 700:22944 701:22950 702:22952
+    Find (2) - sz:702:22952 - slFr:3824 - slTo:3829 - nlA:0
+    Find (1) - Window: 104aa - Forward: 1
+    Set Selection1 (1) - Text: 2578d98 - From: 5910 - To: 5915
+    Text - sz:702:22952 - slFr:110:38:3824 - slTo:110:43:3829 - nlA:0
+    Line Starts: 699:22928 700:22944 701:22950 702:22952
+    Find (2) - sz:702:22952 - slFr:5910 - slTo:5915 - nlA:0
+    Find (1) - Window: 104aa - Forward: 1
+    Set Selection1 (1) - Text: 2578d98 - From: 6217 - To: 6222
+    Text - sz:702:22952 - slFr:167:33:5910 - slTo:167:38:5915 - nlA:0
+    Line Starts: 699:22928 700:22944 701:22950 702:22952
+    Find (2) - sz:702:22952 - slFr:6217 - slTo:6222 - nlA:0
+    Find (1) - Window: 104aa - Forward: 1
+    Set Selection1 (1) - Text: 2578d98 - From: 8006 - To: 8011
+    Text - sz:702:22952 - slFr:174:34:6217 - slTo:174:39:6222 - nlA:0
+    Line Starts: 699:22928 700:22944 701:22950 702:22952
+    Find (2) - sz:702:22952 - slFr:8006 - slTo:8011 - nlA:0
+    Find (1) - Window: 104aa - Forward: 1
+    Set Selection1 (1) - Text: 2578d98 - From: 3824 - To: 3829
+    Text - sz:702:22952 - slFr:214:34:8006 - slTo:214:39:8011 - nlA:0
+    Line Starts: 699:22928 700:22944 701:22950 702:22952
+    Find (2) - sz:702:22952 - slFr:3824 - slTo:3829 - nlA:0
+    Find (1) - Window: 104aa - Forward: 1
+    Set Selection1 (1) - Text: 2578d98 - From: 5910 - To: 5915
+    Text - sz:702:22952 - slFr:110:38:3824 - slTo:110:43:3829 - nlA:0
+    Line Starts: 699:22928 700:22944 701:22950 702:22952
+    Find (2) - sz:702:22952 - slFr:5910 - slTo:5915 - nlA:0
+    Find (1) - Window: 104aa - Forward: 1
+    Set Selection1 (1) - Text: 2578d98 - From: 6217 - To: 6222
+    Text - sz:702:22952 - slFr:167:33:5910 - slTo:167:38:5915 - nlA:0
+    Line Starts: 699:22928 700:22944 701:22950 702:22952
+    Find (2) - sz:702:22952 - slFr:6217 - slTo:6222 - nlA:0
+    Find (1) - Window: 104aa - Forward: 1
+    Set Selection1 (1) - Text: 2578d98 - From: 8006 - To: 8011
+    Text - sz:702:22952 - slFr:174:34:6217 - slTo:174:39:6222 - nlA:0
+    Line Starts: 699:22928 700:22944 701:22950 702:22952
+    Find (2) - sz:702:22952 - slFr:8006 - slTo:8011 - nlA:0
+    Find (1) - Window: 104aa - Forward: 1
+    Set Selection1 (1) - Text: 2578d98 - From: 3824 - To: 3829
+    Text - sz:702:22952 - slFr:214:34:8006 - slTo:214:39:8011 - nlA:0
+    Line Starts: 699:22928 700:22944 701:22950 702:22952
+    Find (2) - sz:702:22952 - slFr:3824 - slTo:3829 - nlA:0
+    Find (1) - Window: 104aa - Forward: 1
+    Set Selection1 (1) - Text: 2578d98 - From: 5910 - To: 5915
+    Text - sz:702:22952 - slFr:110:38:3824 - slTo:110:43:3829 - nlA:0
+    Line Starts: 699:22928 700:22944 701:22950 702:22952
+    Find (2) - sz:702:22952 - slFr:5910 - slTo:5915 - nlA:0
+    Find (1) - Window: 104aa - Forward: 1
+    Set Selection1 (1) - Text: 2578d98 - From: 6217 - To: 6222
+    Text - sz:702:22952 - slFr:167:33:5910 - slTo:167:38:5915 - nlA:0
+    Line Starts: 699:22928 700:22944 701:22950 702:22952
+    Find (2) - sz:702:22952 - slFr:6217 - slTo:6222 - nlA:0
+    Find (1) - Window: 104aa - Forward: 1
+    Set Selection1 (1) - Text: 2578d98 - From: 8006 - To: 8011
+    Text - sz:702:22952 - slFr:174:34:6217 - slTo:174:39:6222 - nlA:0
+    Line Starts: 699:22928 700:22944 701:22950 702:22952
+    Find (2) - sz:702:22952 - slFr:8006 - slTo:8011 - nlA:0
+    Find (1) - Window: 104aa - Forward: 1
+    Set Selection1 (1) - Text: 2578d98 - From: 3824 - To: 3829
+    Text - sz:702:22952 - slFr:214:34:8006 - slTo:214:39:8011 - nlA:0
+    Line Starts: 699:22928 700:22944 701:22950 702:22952
+    Find (2) - sz:702:22952 - slFr:3824 - slTo:3829 - nlA:0
+    Find (1) - Window: 104aa - Forward: 1
+    Set Selection1 (1) - Text: 2578d98 - From: 5910 - To: 5915
+    Text - sz:702:22952 - slFr:110:38:3824 - slTo:110:43:3829 - nlA:0
+    Line Starts: 699:22928 700:22944 701:22950 702:22952
+    Find (2) - sz:702:22952 - slFr:5910 - slTo:5915 - nlA:0
+    Find (1) - Window: 104aa - Forward: 1
+    Set Selection1 (1) - Text: 2578d98 - From: 6217 - To: 6222
+    Text - sz:702:22952 - slFr:167:33:5910 - slTo:167:38:5915 - nlA:0
+    Line Starts: 699:22928 700:22944 701:22950 702:22952
+    Find (2) - sz:702:22952 - slFr:6217 - slTo:6222 - nlA:0
+    Find (1) - Window: 104aa - Forward: 1
+    Set Selection1 (1) - Text: 2578d98 - From: 8006 - To: 8011
+    Text - sz:702:22952 - slFr:174:34:6217 - slTo:174:39:6222 - nlA:0
+    Line Starts: 699:22928 700:22944 701:22950 702:22952
+    Find (2) - sz:702:22952 - slFr:8006 - slTo:8011 - nlA:0
+    Find (1) - Window: 104aa - Forward: 1
+    Set Selection1 (1) - Text: 2578d98 - From: 3824 - To: 3829
+    Text - sz:702:22952 - slFr:214:34:8006 - slTo:214:39:8011 - nlA:0
+    Line Starts: 699:22928 700:22944 701:22950 702:22952
+    Find (2) - sz:702:22952 - slFr:3824 - slTo:3829 - nlA:0
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_INITMENU (W)
+  CMD: COMMAND_SAVE_FILE
+    Save File (1) - Window: 104aa - SaveAs: 0 - Sel: 0 - fileno: 0 - sizeptr: 0
+    Save File (2) - name: C:\Users\707913\OneDrive - Peel District School Board\Computer Science\Rush Hour\RushHourGame.java - fileno: 0 - sizeptr: 0
+  CMD: WM_INITMENU (W)
+  CMD: COMMAND_RUN
+    Run (1) - Window: 104aa - Ex: 1 - Args: 0 - Step: 0
+    Jikes compiling RushHourGame
+    Command to Java Supervisor - "-java "C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\client\jvm.dll" -cp ".;C:\Program Files (x86)\Ready to Program\Support\Ready Classes;C:\Program Files (x86)\Ready to Program\Support\Classes;C:\Program Files (x86)\Ready to Program\Support\Ready Classes\tools.jar;" -class RushHourGame -props F 25 80 10 "Courier New" 2 F 0 F 8 8 0 F T -applet "C:\Users\707913\OneDrive - Peel District School Board\Computer Science\Rush Hour" "C:\Users\707913\OneDrive - Peel District School Board\Computer Science\Rush JavaSup: JVM Option: "-Djava.class.path=.;C:\Program Files (x86)\Ready to Program\Support\Ready Classes;C:\Program Files (x86)\Ready to Program\Support\Classes;C:\Program Files (x86)\Ready to Program\Support\Ready Classes\tools.jar;"
+    JavaSup: JVM Option: "-Djava.class.path=.;C:\Program Files (x86)\Ready to Program\Support\Ready Classes;C:\Program Files (x86)\Ready to Program\Support\Classes;C:\Program Files (x86)\Ready to Program\Support\Ready Classes\tools.jar;"
+    JavaSup: JVM Option: "-Djava.library.path=C:\Program Files (x86)\Ready to Program\Support\Bin"
+    JavaSup: JVM Option: "-enableassertions"
+    JavaSup: JVM Option: "-Xdebug"
+    JavaSup: JVM Option: "-Xrunjdwp:transport=dt_shmem,address=readyshmem,server=y,suspend=n"
+    JavaSup: -pipe 592 604 508 66646
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_SETFOCUS (W)
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_INITMENU (W)
+  CMD: WM_CLOSE (W)
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_DESTROY (W)
+  CMD: WM_DESTROY (D)
+
+
+Registers
+  EAX=00000001  EBX=00239000  ECX=00900000  EDX=00900000  ESI=0019E690
+  EDI=0019FEE0  EBP=0019E640  ESP=0019E630  EIP=00524EEF  FLG=00200246
+  CS=0023  DS=002B  SS=002B  ES=002B  FS=0053  GS=002B
+
+Not enough space for modules.
+
+------------------------------------------------------
+*** ENVIRONMENT CRASH ***
+
+Date: Jan 17 2023 11:22 AM
+
+File Name: C:\Program Files (x86)\Ready to Program\ready.exe
+Version: 1.7  [11]
+File Size: 2904103
+File Date: Oct 2 2003 4:13 PM
+Operating System: After Windows XP
+JVM: Ready Built-in JRE (1.4.2 or later)
+"assert" Statements: disabled
+
+
+Cause of Crash: Breakpoint Reached
+
+Previous Operations:
+  CMD: WM_CHAR [#13] (D)
+    Keystroke - Text: 2528d98 - ch: 13
+    Text - sz:721:23652 - slFr:5331 - slTo:5331 - nlA:0
+    Line Starts: 718:23628 719:23644 720:23650 721:23652
+    Keystroke (2) - sz:722:23661 - slFr:5340 - slTo:5340 - nlA:0
+    Line Starts: 719:23637 720:23653 721:23659 722:23661
+  CMD: WM_CHAR [;] (D) (x21) [next.setBorder(null);]
+    Keystroke - Text: 2528d98 - ch: 59
+    Text - sz:722:23681 - slFr:150:28:5360 - slTo:150:28:5360 - nlA:0
+    Line Starts: 719:23657 720:23673 721:23679 722:23681
+    Keystroke (2) - sz:722:23682 - slFr:5361 - slTo:5361 - nlA:0
+    Line Starts: 719:23658 720:23674 721:23680 722:23682
+  CMD: WM_INITMENU (W)
+  CMD: COMMAND_SAVE_FILE
+    Save File (1) - Window: 1043a - SaveAs: 0 - Sel: 0 - fileno: 0 - sizeptr: 0
+    Save File (2) - name: C:\Users\707913\OneDrive - Peel District School Board\Computer Science\Rush Hour\RushHourGame.java - fileno: 0 - sizeptr: 0
+  CMD: WM_INITMENU (W)
+  CMD: WM_INITMENU (W)
+    ннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннE
+    ннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннE
+    ннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннЯrеЎ
+    Command to Java Supervisor - "-java "C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\client\jvm.dll" -cp ".;C:\Program Files (x86)\Ready to Program\Support\Ready Classes;C:\Program Files (x86)\Ready to Program\Support\Classes;C:\Program Files (x86)\Ready to Program\Support\Ready Classes\tools.jar;" -class RushHourGame -props F 25 80 10 "Courier New" 2 F 0 F 8 8 0 F T -applet "C:\Users\707913\OneDrive - Peel District School Board\Computer Science\Rush Hour" "C:\Users\707913\OneDrive - Peel District School Board\Computer Science\Rush JavaSup: JVM Option: "-Xdebug"
+    JavaSup: JVM Option: "-Xdebug"
+    JavaSup: JVM Option: "-Xrunjdwp:transport=dt_shmem,address=readyshmem,server=y,suspend=n"
+    JavaSup: -pipe 608 620 532 197524
+    JavaSup: JVM Option: "-Djava.class.path=.;C:\Program Files (x86)\Ready to Program\Support\Ready Classes;C:\Program Files (x86)\Ready to Program\Support\Classes;C:\Program Files (x86)\Ready to Program\Support\Ready Classes\tools.jar;"
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_LBUTTONDOWN (D)
+    Set Selection (1) - Text: 2528d98 - L: 147 - C: 27
+    Text - sz:722:23682 - slFr:150:29:5361 - slTo:150:29:5361 - nlA:0
+    Line Starts: 719:23658 720:23674 721:23680 722:23682
+    Set Selection (2) - sz:722:23682 - slFr:5211 - slTo:5211 - nlA:0
+    Line Starts: 719:23658 720:23674 721:23680 722:23682
+    Extend Selection - Text: 2528d98 - L: 147 - C: 27 (x1)
+    Text - sz:722:23682 - slFr:147:27:5211 - slTo:147:27:5211 - nlA:0
+    Line Starts: 719:23658 720:23674 721:23680 722:23682
+  CMD: WM_LBUTTONUP (D)
+    Extend Selection - Text: 2528d98 - L: 147 - C: 27 (x1)
+    Text - sz:722:23682 - slFr:5211 - slTo:5211 - nlA:0
+    Line Starts: 719:23658 720:23674 721:23680 722:23682
+  CMD: WM_INITMENU (W)
+  CMD: COMMAND_UNDO
+    Undo (1) - Text: 2528d98 - Undo: 1
+    Text - sz:722:23682 - slFr:5211 - slTo:5211 - nlA:0
+    Line Starts: 719:23658 720:23674 721:23680 722:23682
+    Undo (2) - Undo size: 0 - Repl from: 5331 - Repl to: 5361
+    Delete Selection (1) - Text: 2528d98
+    Text - sz:722:23682 - slFr:5331 - slTo:5361 - nlA:0
+    Line Starts: 719:23658 720:23674 721:23680 722:23682
+    Delete Selection (2) - From line: 149 - From col: 44 - To line: 150 - To col: 29
+    Delete Selection (3) - sz:721:23652 - slFr:5331 - slTo:5331 - nlA:0
+    Line Starts: 718:23628 719:23644 720:23650 721:23652
+    Undo (3) - sz:721:23652 - slFr:5331 - slTo:5331 - nlA:0
+    Line Starts: 718:23628 719:23644 720:23650 721:23652
+  CMD: WM_LBUTTONDOWN (D)
+    Set Selection (1) - Text: 2528d98 - L: 134 - C: 33
+    Text - sz:721:23652 - slFr:149:44:5331 - slTo:149:44:5331 - nlA:0
+    Line Starts: 718:23628 719:23644 720:23650 721:23652
+    Set Selection (2) - sz:721:23652 - slFr:4920 - slTo:4920 - nlA:0
+    Line Starts: 718:23628 719:23644 720:23650 721:23652
+  CMD: WM_LBUTTONUP (D)
+    Extend Selection - Text: 2528d98 - L: 134 - C: 33 (x1)
+    Text - sz:721:23652 - slFr:134:26:4920 - slTo:134:26:4920 - nlA:0
+    Line Starts: 718:23628 719:23644 720:23650 721:23652
+  CMD: WM_LBUTTONDOWN (D)
+    Set Selection (1) - Text: 2528d98 - L: 132 - C: 41
+    Text - sz:721:23652 - slFr:4920 - slTo:4920 - nlA:0
+    Line Starts: 718:23628 719:23644 720:23650 721:23652
+    Set Selection (2) - sz:721:23652 - slFr:4854 - slTo:4854 - nlA:0
+    Line Starts: 718:23628 719:23644 720:23650 721:23652
+  CMD: WM_LBUTTONUP (D)
+    Extend Selection - Text: 2528d98 - L: 132 - C: 41 (x1)
+    Text - sz:721:23652 - slFr:132:37:4854 - slTo:132:37:4854 - nlA:0
+    Line Starts: 718:23628 719:23644 720:23650 721:23652
+  CMD: WM_LBUTTONDOWN (D)
+    Set Selection (1) - Text: 2528d98 - L: 133 - C: 41
+    Text - sz:721:23652 - slFr:4854 - slTo:4854 - nlA:0
+    Line Starts: 718:23628 719:23644 720:23650 721:23652
+    Set Selection (2) - sz:721:23652 - slFr:4893 - slTo:4893 - nlA:0
+    Line Starts: 718:23628 719:23644 720:23650 721:23652
+  CMD: WM_LBUTTONUP (D)
+    Extend Selection - Text: 2528d98 - L: 133 - C: 41 (x1)
+    Text - sz:721:23652 - slFr:133:38:4893 - slTo:133:38:4893 - nlA:0
+    Line Starts: 718:23628 719:23644 720:23650 721:23652
+  CMD: WM_LBUTTONDOWN (D)
+    Set Selection (1) - Text: 2528d98 - L: 128 - C: 47
+    Text - sz:721:23652 - slFr:133:38:4893 - slTo:133:38:4893 - nlA:0
+    Line Starts: 718:23628 719:23644 720:23650 721:23652
+    Set Selection (2) - sz:721:23652 - slFr:4682 - slTo:4682 - nlA:0
+    Line Starts: 718:23628 719:23644 720:23650 721:23652
+  CMD: WM_LBUTTONUP (D)
+    Extend Selection - Text: 2528d98 - L: 128 - C: 47 (x1)
+    Text - sz:721:23652 - slFr:128:47:4682 - slTo:128:47:4682 - nlA:0
+    Line Starts: 718:23628 719:23644 720:23650 721:23652
+  CMD: WM_LBUTTONDOWN (D)
+    Set Selection (1) - Text: 2528d98 - L: 129 - C: 47
+    Text - sz:721:23652 - slFr:4682 - slTo:4682 - nlA:0
+    Line Starts: 718:23628 719:23644 720:23650 721:23652
+    Set Selection (2) - sz:721:23652 - slFr:4735 - slTo:4735 - nlA:0
+    Line Starts: 718:23628 719:23644 720:23650 721:23652
+    Extend Selection - Text: 2528d98 - L: 129 - C: 47 (x2)
+    Text - sz:721:23652 - slFr:4735 - slTo:4735 - nlA:0
+    Line Starts: 718:23628 719:23644 720:23650 721:23652
+  CMD: WM_LBUTTONUP (D)
+    Extend Selection - Text: 2528d98 - L: 129 - C: 47 (x1)
+    Text - sz:721:23652 - slFr:4735 - slTo:4735 - nlA:0
+    Line Starts: 718:23628 719:23644 720:23650 721:23652
+  CMD: WM_LBUTTONDOWN (D)
+    Set Selection (1) - Text: 2528d98 - L: 130 - C: 46
+    Text - sz:721:23652 - slFr:4735 - slTo:4735 - nlA:0
+    Line Starts: 718:23628 719:23644 720:23650 721:23652
+    Set Selection (2) - sz:721:23652 - slFr:4774 - slTo:4774 - nlA:0
+    Line Starts: 718:23628 719:23644 720:23650 721:23652
+  CMD: WM_LBUTTONUP (D)
+    Extend Selection - Text: 2528d98 - L: 130 - C: 46 (x1)
+    Text - sz:721:23652 - slFr:130:38:4774 - slTo:130:38:4774 - nlA:0
+    Line Starts: 718:23628 719:23644 720:23650 721:23652
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_LBUTTONDOWN (D)
+    Set Selection (1) - Text: 2528d98 - L: 119 - C: 29
+    Text - sz:721:23652 - slFr:130:38:4774 - slTo:130:38:4774 - nlA:0
+    Line Starts: 718:23628 719:23644 720:23650 721:23652
+    Set Selection (2) - sz:721:23652 - slFr:4152 - slTo:4152 - nlA:0
+    Line Starts: 718:23628 719:23644 720:23650 721:23652
+    Extend Selection - Text: 2528d98 - L: 119 - C: 29 (x1)
+    Text - sz:721:23652 - slFr:119:29:4152 - slTo:119:29:4152 - nlA:0
+    Line Starts: 718:23628 719:23644 720:23650 721:23652
+  CMD: WM_LBUTTONUP (D)
+    Extend Selection - Text: 2528d98 - L: 119 - C: 29 (x1)
+    Text - sz:721:23652 - slFr:4152 - slTo:4152 - nlA:0
+    Line Starts: 718:23628 719:23644 720:23650 721:23652
+  CMD: WM_INITMENU (W)
+  CMD: COMMAND_SAVE_FILE
+    Save File (1) - Window: 1043a - SaveAs: 0 - Sel: 0 - fileno: 0 - sizeptr: 0
+    Save File (2) - name: C:\Users\707913\OneDrive - Peel District School Board\Computer Science\Rush Hour\RushHourGame.java - fileno: 0 - sizeptr: 0
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_INITMENU (W)
+  CMD: WM_CLOSE (W)
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_DESTROY (W)
+  CMD: WM_DESTROY (D)
+
+
+Registers
+  EAX=00000001  EBX=0039B000  ECX=00840000  EDX=00840000  ESI=0019E690
+  EDI=0019FEE0  EBP=0019E640  ESP=0019E630  EIP=00524EEF  FLG=00200246
+  CS=0023  DS=002B  SS=002B  ES=002B  FS=0053  GS=002B
+
+Not enough space for modules.
+
+------------------------------------------------------
+*** ENVIRONMENT CRASH ***
+
+Date: Jan 19 2023 10:30 AM
+
+File Name: C:\Program Files (x86)\Ready to Program\ready.exe
+Version: 1.7  [11]
+File Size: 2904103
+File Date: Oct 2 2003 4:13 PM
+Operating System: After Windows XP
+JVM: Ready Built-in JRE (1.4.2 or later)
+"assert" Statements: disabled
+
+
+Cause of Crash: Breakpoint Reached
+
+Previous Operations:
+    Line Starts: 744:25615 745:25631 746:25637 747:25639
+    Keystroke (2) - sz:747:25640 - slFr:18594 - slTo:18594 - nlA:0
+    Line Starts: 744:25616 745:25632 746:25638 747:25640
+  CMD: WM_LBUTTONDOWN (D)
+    Set Selection (1) - Text: 2538d98 - L: 496 - C: 22
+    Text - sz:747:25640 - slFr:537:70:18594 - slTo:537:70:18594 - nlA:0
+    Line Starts: 744:25616 745:25632 746:25638 747:25640
+    Set Selection (2) - sz:747:25640 - slFr:17169 - slTo:17169 - nlA:0
+    Line Starts: 744:25616 745:25632 746:25638 747:25640
+  CMD: WM_LBUTTONUP (D)
+    Extend Selection - Text: 2538d98 - L: 496 - C: 22 (x1)
+    Text - sz:747:25640 - slFr:496:0:17169 - slTo:496:0:17169 - nlA:0
+    Line Starts: 744:25616 745:25632 746:25638 747:25640
+  CMD: WM_CHAR [#9] (D)
+    Keystroke - Text: 2538d98 - ch: 9
+    Text - sz:747:25640 - slFr:17169 - slTo:17169 - nlA:0
+    Line Starts: 744:25616 745:25632 746:25638 747:25640
+    Keystroke (2) - sz:747:25644 - slFr:17173 - slTo:17173 - nlA:0
+    Line Starts: 744:25620 745:25636 746:25642 747:25644
+  CMD: WM_INITMENU (W)
+  CMD: COMMAND_PASTE
+    Paste (1) - Window: 10480 - SelLen: 0
+    Insert Text (1) - Text: 2538d98 - size: 68 - clean: 0
+    Text - sz:747:25644 - slFr:496:4:17173 - slTo:496:4:17173 - nlA:0
+    Line Starts: 744:25620 745:25636 746:25642 747:25644
+    Insert Text (2) - numNewLines: 0
+    Insert Text (3) - sz:747:25712 - slFr:17241 - slTo:17241 - nlA:0
+    Line Starts: 744:25688 745:25704 746:25710 747:25712
+  CMD: WM_LBUTTONDOWN (D)
+    Set Selection (1) - Text: 2538d98 - L: 496 - C: 53
+    Text - sz:747:25712 - slFr:496:72:17241 - slTo:496:72:17241 - nlA:0
+    Line Starts: 744:25688 745:25704 746:25710 747:25712
+    Set Selection (2) - sz:747:25712 - slFr:17222 - slTo:17222 - nlA:0
+    Line Starts: 744:25688 745:25704 746:25710 747:25712
+  CMD: WM_LBUTTONUP (D)
+    Extend Selection - Text: 2538d98 - L: 496 - C: 53 (x1)
+    Text - sz:747:25712 - slFr:496:53:17222 - slTo:496:53:17222 - nlA:0
+    Line Starts: 744:25688 745:25704 746:25710 747:25712
+  CMD: WM_LBUTTONDOWN (D)
+    Set Selection (1) - Text: 2538d98 - L: 496 - C: 53
+    Text - sz:747:25712 - slFr:17222 - slTo:17222 - nlA:0
+    Line Starts: 744:25688 745:25704 746:25710 747:25712
+    Set Selection (2) - sz:747:25712 - slFr:17222 - slTo:17222 - nlA:0
+    Line Starts: 744:25688 745:25704 746:25710 747:25712
+    Select Word - Text: 2538d98
+    Text - sz:747:25712 - slFr:496:53:17222 - slTo:496:53:17222 - nlA:0
+    Line Starts: 744:25688 745:25704 746:25710 747:25712
+  CMD: WM_LBUTTONUP (D)
+    Extend Selection - Text: 2538d98 - L: 496 - C: 53 (x1)
+    Text - sz:747:25712 - slFr:496:49:17218 - slTo:496:59:17228 - nlA:0
+    Line Starts: 744:25688 745:25704 746:25710 747:25712
+  CMD: WM_CHAR [v] (D) (x1) [v]
+    Keystroke - Text: 2538d98 - ch: 118
+    Text - sz:747:25712 - slFr:17218 - slTo:17228 - nlA:0
+    Line Starts: 744:25688 745:25704 746:25710 747:25712
+    Delete Selection (1) - Text: 2538d98
+    Text - sz:747:25712 - slFr:496:49:17218 - slTo:496:59:17228 - nlA:0
+    Line Starts: 744:25688 745:25704 746:25710 747:25712
+    Delete Selection (2) - From line: 496 - From col: 49 - To line: 496 - To col: 59
+    Delete Selection (3) - sz:747:25702 - slFr:17218 - slTo:17218 - nlA:0
+    Line Starts: 744:25678 745:25694 746:25700 747:25702
+    Keystroke (2) - sz:747:25703 - slFr:17219 - slTo:17219 - nlA:0
+    Line Starts: 744:25679 745:25695 746:25701 747:25703
+  CMD: WM_CHAR [e] (D) (x7) [erticle]
+    Keystroke - Text: 2538d98 - ch: 101
+    Text - sz:747:25709 - slFr:496:56:17225 - slTo:496:56:17225 - nlA:0
+    Line Starts: 744:25685 745:25701 746:25707 747:25709
+    Keystroke (2) - sz:747:25710 - slFr:17226 - slTo:17226 - nlA:0
+    Line Starts: 744:25686 745:25702 746:25708 747:25710
+  CMD: WM_CHAR [#8] (D)
+    Keystroke - Text: 2538d98 - ch: 8
+    Text - sz:747:25710 - slFr:496:57:17226 - slTo:496:57:17226 - nlA:0
+    Line Starts: 744:25686 745:25702 746:25708 747:25710
+    Keystroke (2) - sz:747:25709 - slFr:17225 - slTo:17225 - nlA:0
+    Line Starts: 744:25685 745:25701 746:25707 747:25709
+  CMD: WM_CHAR [#8] (D)
+    Keystroke - Text: 2538d98 - ch: 8
+    Text - sz:747:25709 - slFr:496:56:17225 - slTo:496:56:17225 - nlA:0
+    Line Starts: 744:25685 745:25701 746:25707 747:25709
+    Keystroke (2) - sz:747:25708 - slFr:17224 - slTo:17224 - nlA:0
+    Line Starts: 744:25684 745:25700 746:25706 747:25708
+  CMD: WM_CHAR [l] (D) (x2) [al]
+    Keystroke - Text: 2538d98 - ch: 108
+    Text - sz:747:25709 - slFr:496:56:17225 - slTo:496:56:17225 - nlA:0
+    Line Starts: 744:25685 745:25701 746:25707 747:25709
+    Keystroke (2) - sz:747:25710 - slFr:17226 - slTo:17226 - nlA:0
+    Line Starts: 744:25686 745:25702 746:25708 747:25710
+  CMD: WM_LBUTTONDOWN (D)
+    Set Selection (1) - Text: 2538d98 - L: 496 - C: 71
+    Text - sz:747:25710 - slFr:496:57:17226 - slTo:496:57:17226 - nlA:0
+    Line Starts: 744:25686 745:25702 746:25708 747:25710
+    Set Selection (2) - sz:747:25710 - slFr:17239 - slTo:17239 - nlA:0
+    Line Starts: 744:25686 745:25702 746:25708 747:25710
+  CMD: WM_LBUTTONUP (D)
+    Extend Selection - Text: 2538d98 - L: 496 - C: 71 (x1)
+    Text - sz:747:25710 - slFr:496:70:17239 - slTo:496:70:17239 - nlA:0
+    Line Starts: 744:25686 745:25702 746:25708 747:25710
+  CMD: WM_LBUTTONDOWN (D)
+    ннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннE
+    ннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннE
+    ннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннE
+    нннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннн
+    нннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннн
+    нннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннн
+    нннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннн
+    нннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннн
+    нннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннн
+    нннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннн
+    нннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннн
+    нннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннн8
+    нннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннн
+    нннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннн
+    нннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннн
+    нннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннн
+    нннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннн
+    нннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннн
+    нннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннн
+    нннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннн
+    нннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннн
+    Line Starts: 744:25682 745:25698 746:25704 747:25706
+    Keystroke (2) - sz:747:25707 - slFr:17236 - slTo:17236 - nlA:0
+    Line Starts: 744:25683 745:25699 746:25705 747:25707
+  CMD: WM_CHAR [p] (D) (x1) [p]
+    Keystroke - Text: 2538d98 - ch: 112
+    Text - sz:747:25707 - slFr:496:67:17236 - slTo:496:67:17236 - nlA:0
+    Line Starts: 744:25683 745:25699 746:25705 747:25707
+    Keystroke (2) - sz:747:25708 - slFr:17237 - slTo:17237 - nlA:0
+    Line Starts: 744:25684 745:25700 746:25706 747:25708
+  CMD: WM_LBUTTONDOWN (D)
+    Set Selection (1) - Text: 2538d98 - L: 541 - C: 82
+    Text - sz:747:25708 - slFr:496:68:17237 - slTo:496:68:17237 - nlA:0
+    Line Starts: 744:25684 745:25700 746:25706 747:25708
+    Set Selection (2) - sz:747:25708 - slFr:18774 - slTo:18774 - nlA:0
+    Line Starts: 744:25684 745:25700 746:25706 747:25708
+  CMD: WM_LBUTTONUP (D)
+    Extend Selection - Text: 2538d98 - L: 541 - C: 82 (x1)
+    Text - sz:747:25708 - slFr:541:50:18774 - slTo:541:50:18774 - nlA:0
+    Line Starts: 744:25684 745:25700 746:25706 747:25708
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_INITMENU (W)
+  CMD: COMMAND_SAVE_FILE
+    Save File (1) - Window: 10480 - SaveAs: 0 - Sel: 0 - fileno: 0 - sizeptr: 0
+    Save File (2) - name: C:\Users\707913\OneDrive - Peel District School Board\Computer Science\Rush Hour (1)\RushHourGame.java - fileno: 0 - sizeptr: 0
+  CMD: WM_CLOSE (W)
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_DESTROY (W)
+  CMD: WM_DESTROY (D)
+
+
+Registers
+  EAX=00000001  EBX=00286000  ECX=00A80000  EDX=00A80000  ESI=0019E690
+  EDI=0019FEE0  EBP=0019E640  ESP=0019E630  EIP=00524EEF  FLG=00200246
+  CS=0023  DS=002B  SS=002B  ES=002B  FS=0053  GS=002B
+
+Not enough space for modules.
+
+------------------------------------------------------
+*** ENVIRONMENT CRASH ***
+
+Date: Jan 23 2023 9:45 AM
+
+File Name: C:\Program Files (x86)\Ready to Program\Ready.exe
+Version: 1.7  [11]
+File Size: 2904103
+File Date: Oct 2 2003 4:13 PM
+Operating System: After Windows XP
+JVM: Ready Built-in JRE (1.4.2 or later)
+"assert" Statements: disabled
+
+
+Cause of Crash: Breakpoint Reached
+
+Previous Operations:
+    ннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннE
+    ннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннE
+    ннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннE
+    нннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннн
+    нннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннн
+    нннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннн
+    нннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннн
+    нннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннн
+    нннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннн
+    нннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннн
+    нннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннн
+    нннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннн
+    нннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннн
+    Command to Java Supervisor - "-java "C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\client\jvm.dll" -cp ".;C:\Program Files (x86)\Ready to Program\Support\Ready Classes;C:\Program Files (x86)\Ready to Program\Support\Classes;C:\Program Files (x86)\Ready to Program\Support\Ready Classes\tools.jar;" -class RushHourGame -props F 25 80 10 "Courier New" 2 F 0 F 8 8 0 F T -applet "C:\Users\707913\OneDrive - Peel District School Board\Computer Science\Final Rush Hour Project" "C:\Users\707913\OneDrive - Peel District School Board\ComputerJavaSup: -pipe 588 600 520 1573548
+    JavaSup: -pipe 588 600 520 1573548
+    JavaSup: JVM Option: "-Djava.class.path=.;C:\Program Files (x86)\Ready to Program\Support\Ready Classes;C:\Program Files (x86)\Ready to Program\Support\Classes;C:\Program Files (x86)\Ready to Program\Support\Ready Classes\tools.jar;"
+    JavaSup: JVM Option: "-Djava.library.path=C:\Program Files (x86)\Ready to Program\Support\Bin"
+    JavaSup: JVM Option: "-enableassertions"
+    JavaSup: JVM Option: "-Xdebug"
+    JavaSup: JVM Option: "-Xrunjdwp:transport=dt_shmem,address=readyshmem,server=y,suspend=n"
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_CLOSE (W)
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_DESTROY (W)
+  CMD: WM_DESTROY (D)
+
+
+Registers
+  EAX=00000001  EBX=0029D000  ECX=006F0000  EDX=006F0000  ESI=0019E690
+  EDI=0019FEE0  EBP=0019E640  ESP=0019E630  EIP=00524EEF  FLG=00000246
+  CS=0023  DS=002B  SS=002B  ES=002B  FS=0053  GS=002B
+
+List of Modules: 
+    C:\Program Files (x86)\Ready to Program\Ready.exe
+    C:\WINDOWS\SYSTEM32\ntdll.dll
+    C:\WINDOWS\System32\KERNEL32.DLL
+    C:\WINDOWS\System32\KERNELBASE.dll
+    C:\WINDOWS\System32\USER32.dll
+    C:\WINDOWS\System32\win32u.dll
+    C:\WINDOWS\System32\GDI32.dll
+    C:\WINDOWS\System32\gdi32full.dll
+    C:\WINDOWS\System32\msvcp_win.dll
+    C:\WINDOWS\System32\ucrtbase.dll
+    C:\WINDOWS\System32\comdlg32.dll
+    C:\WINDOWS\System32\msvcrt.dll
+    C:\WINDOWS\System32\combase.dll
+    C:\WINDOWS\System32\RPCRT4.dll
+    C:\WINDOWS\System32\shcore.dll
+    C:\WINDOWS\System32\SHLWAPI.dll
+    C:\WINDOWS\System32\SHELL32.dll
+    C:\WINDOWS\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.19041.1110_none_c0da534e38c01f4d\COMCTL32.dll
+    C:\WINDOWS\System32\ADVAPI32.dll
+    C:\WINDOWS\System32\sechost.dll
+    C:\WINDOWS\SYSTEM32\WINMM.dll
+    C:\WINDOWS\SYSTEM32\VERSION.dll
+    C:\WINDOWS\System32\IMM32.DLL
+    C:\WINDOWS\system32\uxtheme.dll
+    C:\WINDOWS\System32\MSCTF.dll
+    C:\WINDOWS\System32\OLEAUT32.dll
+    C:\Program Files (x86)\Ready to Program\Support\Bin\edjdll.dll
+    C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\client\jvm.dll
+    C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\hpi.dll
+    C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\verify.dll
+    C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\java.dll
+    C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\zip.dll
+    C:\WINDOWS\SYSTEM32\kernel.appcore.dll
+    C:\WINDOWS\System32\bcryptPrimitives.dll
+    C:\WINDOWS\SYSTEM32\textinputframework.dll
+    C:\WINDOWS\System32\CoreUIComponents.dll
+    C:\WINDOWS\System32\CoreMessaging.dll
+    C:\WINDOWS\System32\WS2_32.dll
+    C:\WINDOWS\SYSTEM32\ntmarta.dll
+    C:\WINDOWS\SYSTEM32\wintypes.dll
+    C:\WINDOWS\SYSTEM32\LSKHOOK.DLL
+    C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\dt_shmem.dll
+    C:\WINDOWS\SYSTEM32\TextShaping.dll
+    C:\WINDOWS\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.1110_none_a8625c1886757984\comctl32.DLL
+    C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\net.dll
+    C:\WINDOWS\system32\napinsp.dll
+    C:\WINDOWS\system32\pnrpnsp.dll
+    C:\WINDOWS\system32\wshbth.dll
+    C:\WINDOWS\system32\NLAapi.dll
+    C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL
+    C:\WINDOWS\System32\mswsock.dll
+    C:\WINDOWS\SYSTEM32\DNSAPI.dll
+    C:\WINDOWS\System32\NSI.dll
+    C:\WINDOWS\System32\winrnr.dll
+    C:\WINDOWS\System32\fwpuclnt.dll
+    C:\WINDOWS\System32\bcrypt.dll
+    C:\Windows\System32\rasadhlp.dll
+    C:\WINDOWS\System32\ole32.dll
+    C:\WINDOWS\SYSTEM32\dbghelp.dll
+
+  0 .V PC=0023:00524eef Ret=00524cc1 Frame=0019e640 Stack=0019e630
+    Parameters (0x02668258 0x00000001 0x0019fee0 0x0019e690)
+    dbgheap.c, _free_dbg_lk (), Line 1066+0060 byte(s)
+  1 .V PC=0023:00524cc1 Ret=00414cc7 Frame=0019e674 Stack=0019e648
+    Parameters (0x02668258 0x00000001 0x0000000d 0x0019fee0)
+    dbgheap.c, _free_dbg (), Line 1001+0013 byte(s)
+  2 .V PC=0023:00414cc7 Ret=0040172b Frame=0019e688 Stack=0019e67c
+    Parameters (0x0052bb70 0x0052bb70 0xcccccccc 0xcccccccc)
+    src\edfail.c, EdFail_Finalize (), Line 0157+0018 byte(s)
+  3 .V PC=0023:0040172b Ret=0052bc96 Frame=0019fee0 Stack=0019e690
+    Parameters (0x00400000 0x00000000 0x006f3f04 0x00000001)
+    src\ed.c, WinMain (), Line 0486+0000 byte(s)
+  4 .V PC=0023:0052bc96 Ret=7698fa29 Frame=0019ff70 Stack=0019fee8
+    Parameters (0x0029d000 0x7698fa10 0x0019ffdc 0x77a77a9e)
+    crt0.c, WinMainCRTStartup (), Line 0198+0054 byte(s)
+  5 .V PC=0023:7698fa29 Ret=77a77a9e Frame=0019ff80 Stack=0019ff78
+    Parameters (0x0029d000 0xe9cb41d8 0x00000000 0x00000000)
+    Unknown module, BaseThreadInitThunk() + 0025 byte(s)
+  6 .V PC=0023:77a77a9e Ret=77a77a6e Frame=0019ffdc Stack=0019ff88
+    Parameters (0xffffffff 0x77a98b7b 0x00000000 0x00000000)
+    Unknown module, RtlGetAppContainerNamedObjectPath() + 0286 byte(s)
+  7 .V PC=0023:77a77a6e Ret=00000000 Frame=0019ffec Stack=0019ffe4
+    Parameters (0x0052bb70 0x0029d000 0x00000000 0x78746341)
+    Unknown module, RtlGetAppContainerNamedObjectPath() + 0238 byte(s)
+
+------------------------------------------------------
